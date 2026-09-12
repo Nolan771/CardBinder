@@ -1,7 +1,6 @@
 name: Build CardBinder APK
-
-on:
-  workflow_dispatch:
+run-name: Build CardBinder
+on: workflow_dispatch
 
 jobs:
   build:
